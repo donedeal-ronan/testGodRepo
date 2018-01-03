@@ -1,0 +1,3 @@
+[submodule "AndroidSharedComponents"]
+	path = TestComponent/AndroidSharedComponents
+	url = git@github.com:donedeal-ronan/AndroidSharedComponents.git
